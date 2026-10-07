@@ -1,0 +1,7 @@
+Leandro_Gonzalez.txt
+
+Nombre: Leandro Sebastián
+Apellido: González Mur
+Grupo: Monitoreo TI
+Rol o responsabilidad principal: Líder de proyecto; coordinación, configuración del servidor y 
+apoyo en PRTG.
