@@ -1,0 +1,5 @@
+CARLITOS
+Nombre: Carlos Alexander 
+Apellido: Velasquez Montaño
+Grupo: Monitoreo de TI
+Rol o responsabilidad principal: pruebas y manual de usuario: validación de sensores, notificaciones, mapas y evidencias.
