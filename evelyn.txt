@@ -1,0 +1,4 @@
+Nombre: Evelyn
+Apellido: Torrico Guevara
+Grupo: Grupo de Monitoreo TI
+Rol o responsabilidad principal: Administración de PRTG y documentación técnica
